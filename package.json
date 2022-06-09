@@ -1,0 +1,20 @@
+{
+  "name": "ii8n",
+  "version": "0.0.1",
+  "description": "Translation library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ii8n",
+    "translation"
+  ],
+  "author": "Vishakh P Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.3",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
