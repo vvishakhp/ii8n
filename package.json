@@ -1,13 +1,14 @@
 {
-  "name": "ii8n",
+  "name": "ideate-i18n",
   "version": "0.0.1",
   "description": "Translation library",
   "main": "dist/index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "tsc"
   },
   "keywords": [
-    "ii8n",
+    "i18n",
     "translation"
   ],
   "author": "Vishakh P Kumar",
